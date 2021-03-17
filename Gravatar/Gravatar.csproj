@@ -2,5 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+
+    <PackageId>Gravatar.Ana</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Ana Helena</Authors>
+    <Company>Ana Helena</Company>
+    <PackageDescription>Extensions for Gravatar</PackageDescription>
+    <Description>Extensions for Gravatar</Description>
+    <RepositoryUrl>https://github.com/anahelenasilva/gravatar</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/anahelenasilva/gravatar</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Gravatar</PackageTags>
+    <Title>Gravatar Extensions</Title>
+    <Summary>Extensions for Gravatar</Summary>
   </PropertyGroup>
 </Project>
